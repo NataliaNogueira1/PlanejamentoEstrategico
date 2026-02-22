@@ -25,6 +25,4 @@
 
 ## Estudo de caso - Toyota
 
-- **:** A Toyota visa a mobilidade e usa a tecnologia/ti para isso
-
-## Observações
+- **TI como ferramenta central:** A Toyota visa a mobilidade e usa a tecnologia/ti para isso
