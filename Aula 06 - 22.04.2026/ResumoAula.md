@@ -10,26 +10,22 @@
 
 ## Tópicos abordados
 
-- Estudo do artigo de Porter
-- Destaque nos pilares de estratégias empresariais.
-- Utilizar estratégia para competitividade entre concorrentes
+- Conceituação de CRM como estratégia de negócio apoiada por tecnologia
+- Objetivos do CRM: organizar clientes, melhorar relacionamento e aumentar vendas
+- Integração entre TI, Marketing e Comercial por meio do CRM
+- Principais termos e métricas: leads, pipeline, CAC, LTV, churn
+- Tipos de CRM: Operacional, Analítico e Colaborativo
+- Funil de vendas e jornada do cliente
+- Exemplos de plataformas: HubSpot, Salesforce, Pipedrive
 
-## Competitive strategy - Michael Porter (1997)
+## Conceitos
 
-- Fala sobre a importância de estratégia e seus pilares.
-- Uma referência primária em estudos acadêmicos.
-- Antes desse artigo, a análise econômica era voltada para políticas pública.
+- **CRM:** Conjunto de práticas, estratégias e tecnologias voltadas ao gerenciamento das interações com clientes atuais e potenciais
+- **CRM Operacional:** Foca na automação de processos repetitivos como vendas e campanhas
+- **CRM Analítico:** Utiliza dados para gerar inteligência e apoiar decisões estratégicas
+- **CRM Colaborativo:** Promove integração entre equipes e canais de atendimento
 
-## Cinco forças competitivas
+## Observações
 
-- **Novos entretantes:** iniciantes no mercado tentando conquistar seu espaço.
-- **Rivalidade entre concorrentes:** competição entre empresas do mesmo mercado.
-- **Poder dos compradores:** demanda por oferta.
-- **Poder dos fornecedores:** não precisa se especializar tanto porque o fornecedor faz.
-- **Produtos substitutos:** substituir produto por um parecido que oferece alguma vantagem.
-
-## Estratégias genéricas de Porter
-
-- **Liderança em custos:** eficiência e redução de custos.
-- **Diferenciação:** quanto mais raro, mais caro se pode cobrar.
-- **Foco (nicho):** Ter um público específico.
+- **CRM não é apenas software:** Representa uma abordagem centrada no cliente dentro da estratégia organizacional
+- **Importância estratégica:** Quando bem implementado, gera vantagem competitiva por meio de decisões orientadas por dados e maior retenção de clientes
